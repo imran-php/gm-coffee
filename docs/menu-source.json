@@ -1,0 +1,1508 @@
+{
+  "brand": "GM COFFEE",
+  "source": "ПОЛИГРАФИЯ/МЕНЮ вывеска/Меню вывеска.pdf and corresponding JPG pages",
+  "status": "transcribed_from_artwork_pending_owner_approval",
+  "currency": null,
+  "currency_assumption": "RUB, pending owner confirmation; currency sign is not explicitly printed alongside the prices.",
+  "source_volume_header_ml": [
+    250,
+    350
+  ],
+  "volume_note": "The common header is printed for every category. A single price must not be treated as a verified 350 ml variant. Even two-price mappings require current-menu confirmation.",
+  "categories": [
+    {
+      "id": "black-coffee",
+      "name": "Чёрный кофе",
+      "source_page": 2,
+      "items": [
+        {
+          "id": "black-coffee-01",
+          "name": "Двойное эспрессо",
+          "source_price_column": [
+            230
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "black-coffee-02",
+          "name": "Эспрессо комбо апельсин",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "black-coffee-03",
+          "name": "Эспрессо комбо гранат",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "black-coffee-04",
+          "name": "Американо",
+          "source_price_column": [
+            230
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "black-coffee-05",
+          "name": "Лунго",
+          "source_price_column": [
+            230
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "black-coffee-06",
+          "name": "Фильтр",
+          "source_price_column": [
+            220,
+            290
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milk-coffee",
+      "name": "Молочный кофе",
+      "source_page": 2,
+      "items": [
+        {
+          "id": "milk-coffee-01",
+          "name": "Капучино",
+          "source_price_column": [
+            240,
+            280
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ]
+        },
+        {
+          "id": "milk-coffee-02",
+          "name": "Латте",
+          "source_price_column": [
+            240,
+            280
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ]
+        },
+        {
+          "id": "milk-coffee-03",
+          "name": "Флэт уайт",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "milk-coffee-04",
+          "name": "Какао",
+          "source_price_column": [
+            180,
+            240
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "consider_separate_cocoa_and_chocolate_category_on_website"
+          ]
+        },
+        {
+          "id": "milk-coffee-05",
+          "name": "Горячий шоколад",
+          "source_price_column": [
+            180,
+            240
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "consider_separate_cocoa_and_chocolate_category_on_website"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cold-coffee",
+      "name": "Холодный кофе",
+      "source_page": 2,
+      "items": [
+        {
+          "id": "cold-coffee-01",
+          "name": "Айс кофе классический",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "cold-coffee-02",
+          "name": "Айс кофе с урбечом",
+          "source_price_column": [
+            360,
+            380
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ]
+        },
+        {
+          "id": "cold-coffee-03",
+          "name": "Айс латте",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "cold-coffee-04",
+          "name": "Бамбл апельсин",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "cold-coffee-05",
+          "name": "Бамби вишня",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header",
+            "confirm_exact_name_as_printed"
+          ]
+        },
+        {
+          "id": "cold-coffee-06",
+          "name": "Колд брю с колой",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "cold-coffee-07",
+          "name": "Эспрессо-тоник",
+          "source_price_column": [
+            330
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "cold-coffee-08",
+          "name": "Эспрессо-тоник (гранат)",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raf",
+      "name": "Раф",
+      "source_page": 2,
+      "items": [
+        {
+          "id": "raf-01",
+          "name": "Классический",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "raf-02",
+          "name": "С урбечом",
+          "source_price_column": [
+            360,
+            420
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ]
+        },
+        {
+          "id": "raf-03",
+          "name": "Кокосовый",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "raf-04",
+          "name": "Цитрусовый",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "raf-05",
+          "name": "Малиновый",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "raf-06",
+          "name": "Попкорн",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fresh",
+      "name": "Фреш",
+      "source_page": 3,
+      "items": [
+        {
+          "id": "fresh-01",
+          "name": "Апельсиновый",
+          "source_price_column": [
+            350
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "fresh-02",
+          "name": "Яблочный",
+          "source_price_column": [
+            350
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "fresh-03",
+          "name": "Апельсин-яблоко",
+          "source_price_column": [
+            350
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "fresh-04",
+          "name": "Морковный",
+          "source_price_column": [
+            350
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "fresh-05",
+          "name": "Гранатовый",
+          "source_price_column": [
+            450
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "fresh-06",
+          "name": "Грейпфрут",
+          "source_price_column": [
+            450
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lemonades",
+      "name": "Лимонады",
+      "source_page": 3,
+      "items": [
+        {
+          "id": "lemonades-01",
+          "name": "Щавелевый",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Щавелевый — 300"
+        },
+        {
+          "id": "lemonades-02",
+          "name": "Манго-маракуйя",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Манго-маракуйя — 300"
+        },
+        {
+          "id": "lemonades-03",
+          "name": "Манго-мандарин",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Манго-мандарин — 300"
+        },
+        {
+          "id": "lemonades-04",
+          "name": "Зелёнка",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Зелёнка — 300"
+        },
+        {
+          "id": "lemonades-05",
+          "name": "Мохито классический",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Мохито классический — 300"
+        },
+        {
+          "id": "lemonades-06",
+          "name": "Мохито клубничный",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Мохито клубничный — 300"
+        },
+        {
+          "id": "lemonades-07",
+          "name": "Арбузный",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Арбузный — 300"
+        },
+        {
+          "id": "lemonades-08",
+          "name": "Голубая лагуна",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Голубая лагуна — 300"
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "name": "Коктейли",
+      "source_page": 3,
+      "items": [
+        {
+          "id": "cocktails-01",
+          "name": "Lotus",
+          "source_price_column": [
+            400
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            400
+          ],
+          "source_label_with_inline_price": "Lotus — 400"
+        },
+        {
+          "id": "cocktails-02",
+          "name": "Классический",
+          "source_price_column": [
+            240
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            240
+          ],
+          "source_label_with_inline_price": "Классический — 240"
+        },
+        {
+          "id": "cocktails-03",
+          "name": "Банановый",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Банановый — 300"
+        },
+        {
+          "id": "cocktails-04",
+          "name": "Клубничный",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header",
+            "conflicting_price_300_inline_vs_360_column"
+          ],
+          "source_inline_price": [
+            300
+          ],
+          "source_label_with_inline_price": "Клубничный — 300"
+        },
+        {
+          "id": "cocktails-05",
+          "name": "Клубнично-банановый",
+          "source_price_column": [
+            320
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            320
+          ],
+          "source_label_with_inline_price": "Клубнично-банановый — 320"
+        },
+        {
+          "id": "cocktails-06",
+          "name": "Клубнично-малиновый",
+          "source_price_column": [
+            320
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            320
+          ],
+          "source_label_with_inline_price": "Клубнично-малиновый — 320"
+        },
+        {
+          "id": "cocktails-07",
+          "name": "Шоколадный",
+          "source_price_column": [
+            320
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            320
+          ],
+          "source_label_with_inline_price": "Шоколадный — 320"
+        },
+        {
+          "id": "cocktails-08",
+          "name": "Черничный",
+          "source_price_column": [
+            320
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            320
+          ],
+          "source_label_with_inline_price": "Черничный — 320"
+        },
+        {
+          "id": "cocktails-09",
+          "name": "Орео",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            360
+          ],
+          "source_label_with_inline_price": "Орео — 360"
+        },
+        {
+          "id": "cocktails-10",
+          "name": "Сникерс",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            360
+          ],
+          "source_label_with_inline_price": "Сникерс — 360"
+        },
+        {
+          "id": "cocktails-11",
+          "name": "Баунти",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ],
+          "source_inline_price": [
+            360
+          ],
+          "source_label_with_inline_price": "Баунти — 360"
+        },
+        {
+          "id": "cocktails-12",
+          "name": "Протеин",
+          "source_price_column": [
+            300,
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume"
+          ],
+          "source_inline_price": [
+            300,
+            360
+          ],
+          "source_label_with_inline_price": "Протеин — 300 / 360"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "name": "Чай",
+      "source_page": 4,
+      "items": [
+        {
+          "id": "tea-01",
+          "name": "Чёрный",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "tea-02",
+          "name": "Облепиховый",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "tea-03",
+          "name": "Зелёный",
+          "source_price_column": [
+            300
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "tea-04",
+          "name": "Фруктовый",
+          "source_price_column": [
+            360
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "tea-05",
+          "name": "Молочный улун",
+          "source_price_column": [
+            450
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "tea-06",
+          "name": "Пуэр",
+          "source_price_column": [
+            450
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bubble-tea",
+      "name": "Bubble Tea",
+      "source_page": 4,
+      "items": [
+        {
+          "id": "bubble-tea-01",
+          "name": "Манго-маракуйя",
+          "source_price_column": [
+            460
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "bubble-tea-02",
+          "name": "Клюквенный",
+          "source_price_column": [
+            460
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "bubble-tea-03",
+          "name": "Гуанабана",
+          "source_price_column": [
+            460
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "bubble-tea-04",
+          "name": "Нут-кофе",
+          "source_price_column": [
+            460
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header",
+            "confirm_exact_name_as_printed"
+          ]
+        },
+        {
+          "id": "bubble-tea-05",
+          "name": "Жасмин-клубника",
+          "source_price_column": [
+            480
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "bubble-tea-06",
+          "name": "Матча-ананас",
+          "source_price_column": [
+            480
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        },
+        {
+          "id": "bubble-tea-07",
+          "name": "Черника-молоко",
+          "source_price_column": [
+            480
+          ],
+          "approved_prices": null,
+          "approved_volume_ml": null,
+          "source_volume_header_ml": [
+            250,
+            350
+          ],
+          "ingredients": null,
+          "allergens": null,
+          "availability": null,
+          "review_flags": [
+            "confirm_current_price",
+            "confirm_volume",
+            "single_price_under_two_volume_header"
+          ]
+        }
+      ]
+    }
+  ],
+  "item_count": 64
+}
