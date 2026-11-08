@@ -1,0 +1,11 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const source=fs.readFileSync(require('path').join(__dirname,'../js/app.js'),'utf8');
+const fn=source.slice(source.indexOf('  function sendWhatsAppOrder()'),source.indexOf('  function showDemoInfo()'));
+let opened,html;
+const ctx={products:[],totals:()=>({subtotal:480,delivery:149,total:629}),cart:[{qty:2}],C:{resolve:()=>({product:{name:'Капучино'},variant:{label:'250 мл',price:240}})},money:n=>`${n} ₽`,method:'delivery',checkoutDraft:{name:'Покупатель',phone:'+7 (928) 111-22-33',city:'Грозный',street:'Мира',house:'5',apartment:'2',time:'hour',comment:'Без сахара & сиропа'},showModal:(_,s)=>html=s,heading:()=>'',e:s=>s,icon:()=>'',window:{open:u=>opened=u}};
+vm.runInNewContext(fn+';sendWhatsAppOrder()',ctx);
+const u=new URL(opened);assert.equal(u.pathname,'/79280200442');
+for(const text of ['Капучино (250 мл) × 2 — 480 ₽','Итого: 629 ₽','Мира, д. 5, кв./офис 2','Без сахара & сиропа','Примерно через час'])assert(u.searchParams.get('text').includes(text));
+assert(html.includes('Открыть WhatsApp'));
+ctx.method='pickup';vm.runInNewContext('sendWhatsAppOrder()',ctx);assert(!new URL(opened).searchParams.get('text').includes('Адрес:'));
+console.log('WhatsApp recipient, items, totals, address, encoding and pickup verified without transmitting messages.');
